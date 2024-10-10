@@ -3,6 +3,13 @@
 ## Overview
 This project aims to classify facial emotions using multi-image classification techniques. The model leverages a Convolutional Neural Network (CNN) to recognize and categorize facial emotions such as happy, sad, angry, and neutral. The dataset is loaded from a directory of labeled images, and the model is trained using TensorFlow and Keras.
 
+## Dataset Information
+The objective of the project is to detect facial expression using image dataset. Convolutional Neural Network is used to classify the images. The output class consists of 7 different types namely angry, disgust, fear, happy, neutral, sad, surprise.
+
+Download link: https://www.kaggle.com/aadityasinghal/facial-expression-dataset
+
+Environment: kaggle
+
 ## Key Features
 - **Multi-Class Image Classification**: Identifies emotions from facial images in different classes.
 - **Deep Learning**: Built using a Convolutional Neural Network (CNN) for efficient feature extraction.
